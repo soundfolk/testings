@@ -1,5 +1,5 @@
 let score = 0
-let timer = 200
+let timer = 5000
 let life = 5
 
 function randoms() {
